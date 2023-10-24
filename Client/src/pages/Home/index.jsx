@@ -1,9 +1,10 @@
 import React from 'react'
+import "./index.css"
 
 const Home = () => {
   return (
-    <div>sadasdawdawd</div>
+    <h1>Home</h1>
   )
 }
 
-export default Home
+export default Home;

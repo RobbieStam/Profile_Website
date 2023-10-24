@@ -1,8 +1,9 @@
 import React from 'react'
+import "./index.css"
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>FOOTER *GitHub Repo and explanation of how site was built</footer>
   )
 }
 
